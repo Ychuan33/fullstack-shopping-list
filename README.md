@@ -6,7 +6,7 @@ This project is a simple app that can add and delete shopping items in the list.
 
 In the project directory, you can run:
 
-### `npm run start`
+### 'npm run start'
 
 Runs the back-end in the developemnt mode.<br>
 
